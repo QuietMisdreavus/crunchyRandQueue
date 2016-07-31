@@ -22,7 +22,7 @@ location box.
 javascript: (function() {
     _my_script=document.createElement('SCRIPT');
     _my_script.type='text/javascript';
-    _my_script.src='https://icesoldier.github.io/crunchyRandQueue/crunchyRandQueue.js?x='+(Math.random());
+    _my_script.src='https://QuietMisdreavus.github.io/crunchyRandQueue/crunchyRandQueue.js?x='+(Math.random());
     document.getElementsByTagName('head')[0].appendChild(_my_script);
     })();
 ```
